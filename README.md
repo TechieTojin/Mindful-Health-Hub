@@ -1,7 +1,7 @@
 # Mindful Health Hub
 
 <div align="center">
-  <img src="https://i.imgur.com/TpKlYdU.png" alt="Mindful Health Hub Logo" width="200"/>
+  <img src="https://i.imgur.com/TpKnnnlYdU.png" alt="Mindful Health Hub Logo" width="200"/>
   <p><em>Your AI-powered health & wellness companion</em></p>
   
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -26,13 +26,13 @@ Mindful Health Hub is a comprehensive wellness platform that combines modern UI/
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://i.imgur.com/PbXLpkB.png" alt="Dashboard" width="700"/>
+  <img src="https://i.imgur.com/PbnnXLpkB.png" alt="Dashboard" width="700"/>
   <br/>
   <em>Modern dashboard with health metrics visualization</em>
   
   <br/><br/>
   
-  <img src="https://i.imgur.com/fYxRDtn.png" alt="Device Connection" width="700"/>
+  <img src="https://i.imgur.com/fYxRDnntn.png" alt="Device Connection" width="700"/>
   <br/>
   <em>Enhanced device connection experience with animations</em>
 </div>
